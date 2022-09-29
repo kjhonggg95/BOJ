@@ -14,4 +14,5 @@ int main()
     int c = max(y2, y4) - min(y1, y3);
     int l = max(r, c);
     cout << l * l;
+    
 }
